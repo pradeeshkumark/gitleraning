@@ -1,7 +1,7 @@
-public class division {
+public class Division {
         public static void main(String[] args) {
-            int a=200;
-            int b=100;
+            int a=2000;
+            int b=1000;
             int c=a/b;
             System.out.println(c);
         }
